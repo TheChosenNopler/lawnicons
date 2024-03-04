@@ -111,7 +111,7 @@ dependencies {
     implementation("io.github.fornewid:material-motion-compose-core:0.10.3")
     implementation("com.google.dagger:hilt-android:$hiltVersion")
     annotationProcessor("com.google.dagger:hilt-android-compiler:$hiltVersion")
-    implementation("androidx.hilt:hilt-navigation-compose:1.0.0")
+    implementation("androidx.hilt:hilt-navigation-compose:1.2.0")
     implementation("com.github.LawnchairLauncher:oss-notices:1.0.2")
     implementation("io.coil-kt:coil-compose:2.2.2")
     implementation("com.squareup.retrofit2:retrofit:$retrofitVersion")
