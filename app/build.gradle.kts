@@ -88,7 +88,7 @@ android {
 hilt.enableAggregatingTask = false
 
 dependencies {
-    val lifecycleVersion = "2.5.1"
+    val lifecycleVersion = "2.7.0"
     val composeVersion = "1.3.0"
     val accompanistVersion = "0.27.1"
     val hiltVersion = "2.44.2"
