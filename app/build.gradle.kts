@@ -92,7 +92,7 @@ dependencies {
     val composeVersion = "1.3.0"
     val accompanistVersion = "0.27.1"
     val hiltVersion = "2.44.2"
-    val retrofitVersion = "2.9.0"
+    val retrofitVersion = "2.11.0"
 
     implementation("androidx.core:core-ktx:1.9.0")
     implementation("androidx.activity:activity-compose:1.6.1")
